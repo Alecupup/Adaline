@@ -13,4 +13,4 @@
 
 进行特征放缩
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/68764044/170651697-eaba80ac-e5b5-405b-9e3e-4299b285bd2a.png)
